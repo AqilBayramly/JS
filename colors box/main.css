@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.red{
+    background-color: red;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.green{
+    background-color: green;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.blue{
+    background-color: blue;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.brown{
+    background-color: brown;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.purple{
+    background-color: purple;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.aqua{
+    background-color: aqua;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
+.gray{
+    background-color: gray;
+    border: 1px solid;
+    width: 25px;
+    height: 25px;
+}
